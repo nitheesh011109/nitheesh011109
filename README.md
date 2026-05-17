@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Vengoti Nitheesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">  AI/ML Enthusiast | SQL | Frontend Developer | Building Real-World Projects</h3>
+<h3 align="center">  AI/ML Enthusiast | SQL | Python Developer | Building Real-World Projects</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -30,12 +30,12 @@
 
 > Passionate about building intelligent, data-driven, and user-centric digital experiences.
 
-I’m an AIML enthusiast with a strong interest in SQL, data analytics, and front-end development.  
+I’m an AIML enthusiast with a strong interest in SQL, data analytics, and python developer.  
 I enjoy exploring modern technologies, creating responsive web applications, and continuously learning through real-world projects and problem solving.
 
 🔹 Exploring Artificial Intelligence & Machine Learning  
 🔹 Passionate About SQL & Data Analytics  
-🔹 Building Modern Front-End Experiences  
+🔹 Building Modern Python Projects  
 🔹 Continuous Learner & Tech Enthusiast
 
 ---
