@@ -33,8 +33,12 @@ I also have a strong interest in SQL and databases, along with a growing curiosi
 
 ---
 
-## 🛠️ *Tech Arsenal*
+## 🧠 *Currently working on*:
+-   **100 Days of Python Challenge**
+-   Building real-world backend projects
+-   Improving problem-solving & coding skills
 
+---
 ### WEB ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
