@@ -3,7 +3,7 @@
 <h3 align="center">  AI/ML Enthusiast | SQL | Python Developer | Building Real-World Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Python+Developer;AI+&+ML+Enthusiast;Building+Projects+Daily;100+Days+of+Code+Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Enthusiast;Building+Projects+Daily;100+Days+of+Code+Journey" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitheesh011109&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
