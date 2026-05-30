@@ -64,6 +64,11 @@ I also have a strong interest in SQL and databases, along with a growing curiosi
 
 ---
 
+## 📌 Current Projects
+
+### 🔹 [100 Days of Python](https://github.com/sathvikamareddy/100-days-of-python)
+Consistently building Python projects and practicing problem-solving to enhance programming fundamentals, logical thinking, and real-world development skills through daily coding challenges.
+---
 <h2 align="left"> 📊 GitHub Analytics </h2>
 
 <p align="center">
