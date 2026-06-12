@@ -68,6 +68,9 @@ I also have a strong interest in SQL and databases, along with a growing curiosi
 
 ### 🔹 [100 Days of Python](https://github.com/sathvikamareddy/100-days-of-python)
 Consistently building Python projects and practicing problem-solving to enhance programming fundamentals, logical thinking, and real-world development skills through daily coding challenges.
+
+### 🔹 [LeetCode SQL Solutions Repository](https://github.com/sathvikamareddy/leetcode-sql-solutions)
+Actively solving SQL problems on LeetCode and maintaining a well-structured GitHub repository with optimized queries, detailed explanations, and organized solutions to strengthen database and query optimization skills.
 ---
 <h2 align="left"> 📊 GitHub Analytics </h2>
 
@@ -91,9 +94,12 @@ Consistently building Python projects and practicing problem-solving to enhance 
 
 ## 📈 *Recent GitHub Activity*
 
-<div align="center">
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitheesh011109&theme=tokyo-night&bg_color=0D1117&color=00ADB5&line=00ADB5&point=EEEEEE&area=true&hide_border=true"/>
+</p>
   
-[![Nitheesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitheesh011109&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div> 
 
