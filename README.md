@@ -128,7 +128,7 @@ Actively solving SQL problems on LeetCode and maintaining a well-structured GitH
 
 ## 🤝 *Connect & Collaborate*
 
-<div align="center">
+<div >
   
 ### 📫 *Connect with Me*
 
