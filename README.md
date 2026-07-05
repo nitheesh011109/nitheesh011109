@@ -87,7 +87,9 @@ Actively solving SQL problems on LeetCode and maintaining a well-structured GitH
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitheesh011109)
+<img width="60%" 
+src="https://streak-stats.demolab.com?user=nitheesh011109&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
 </div>
 
 ---
