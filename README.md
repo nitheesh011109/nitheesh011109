@@ -20,23 +20,21 @@
 
 ## 👩‍💻 *About Me*
 
-> Passionate about building scalable and data-driven applications using Python and modern technologies.
+> Passionate about building **scalable, data-driven applications** using **Python** and modern technologies.
 
-I’m a Python developer actively improving my skills by building real-world projects and solving coding challenges.  
-I also have a strong interest in SQL and databases, along with a growing curiosity in Artificial Intelligence and Machine Learning.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, actively building real-world projects and solving coding challenges while continuously expanding my technical expertise.
 
-🔹 Strong Interest in SQL & Database Management  
-🔹 Exploring Artificial Intelligence & Machine Learning  
-🔹 Building 100 Projects in 100 Days  
-🔹 Learning APIs, Automation & Data Handling  
-🔹 Continuous Learner & Tech Enthusiast  
-
----
-
-## 🧠 *Currently working on*:
--   **100 Days of Python Challenge**
--   Building real-world backend projects
--   Improving problem-solving & coding skills
+◈ **Python Development**
+<br>
+◈ **SQL & Database Management**
+<br>
+◈ **Artificial Intelligence & Machine Learning**
+<br>
+◈ **100 Projects in 100 Days**
+<br>
+◈ **APIs, Automation & Data Handling**
+<br>
+◈ **Problem Solving & Continuous Learning**
 
 ---
 ### WEB ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
@@ -118,13 +116,6 @@ src="https://streak-stats.demolab.com?user=nitheesh011109&theme=github-dark-blue
   ⭐ 𝙄𝙛 𝙮𝙤𝙪 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙬𝙤𝙧𝙠 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜, 𝙘𝙤𝙣𝙨𝙞𝙙𝙚𝙧 𝙜𝙞𝙫𝙞𝙣𝙜 𝙢𝙮 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙖 𝙨𝙩𝙖𝙧!
 </div>
 
----
-
-## *🐍 Watch My Contributions Get Eaten!*
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
-</p>
 
 ---
 
@@ -145,14 +136,9 @@ src="https://streak-stats.demolab.com?user=nitheesh011109&theme=github-dark-blue
 
 ---
 
-<div align="center">
 
-## *Profile Stats*
+## *🐍 Watch My Contributions Get Eaten!*
 
-<br>
-
-<img src="https://img.shields.io/github/last-commit/nitheesh011109/nitheesh011109?label=Profile%20Updated&style=for-the-badge&color=0A66C2" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+</p>
